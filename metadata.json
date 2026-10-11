@@ -1,0 +1,6 @@
+{
+  "name": "Absensi Guru",
+  "description": "Aplikasi Absensi Guru SMA Negeri 1 Julok dengan tampilan WebView responsif, navigasi mulus, dan pemantauan kehadiran real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
